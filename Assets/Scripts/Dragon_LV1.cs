@@ -26,8 +26,8 @@ public class Dragon_LV1 : MonoBehaviour
     {
         Tdirection = (target.transform.position - transform.position).normalized * 0.8f;
         //rb.velocity = new Vector2(Tdirection.x, Tdirection.y);
-
-        GameObject bullet = Instantiate(RegularFire, transform.position + Tdirection * 0.8f, Quaternion.identity);
+        //GameObject bullet = Instantiate(RegularFire, transform.position + (transform.up * 0.2f) + (transform.right*-0.5f) + Tdirection, Quaternion.identity);
+        GameObject bullet = Instantiate(RegularFire, transform.position + Tdirection * 0.5f, Quaternion.identity);
         bullet.GetComponent<Bullet_Movement>().SetDirection(Tdirection);
     }
 }
