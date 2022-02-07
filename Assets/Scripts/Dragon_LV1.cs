@@ -7,12 +7,15 @@ public class Dragon_LV1 : MonoBehaviour
     public GameObject RegularFire;
     public GameObject Ramon;
     private float LastShoot;
+    public GameObject target;
+    Vector3 Tdirection;
 
     // Update is called once per frame
     private void Update()
     {
         float distance = Mathf.Abs(Ramon.transform.position.x - transform.position.x);
-        if(distance < 3.0f && Time.time > LastShoot + 0.25f)
+        //Vector3 direction = Ramon.transform.position;
+        if (distance < 3.0f && Time.time > LastShoot + 0.25f)
         {
             Shoot();
             LastShoot = Time.time;
@@ -21,16 +24,10 @@ public class Dragon_LV1 : MonoBehaviour
 
     private void Shoot()
     {
-        Vector3 direction;
-        if (transform.localScale.x == 259.5f)
-        {
-            direction = Vector2.left;
-        }
-        else
-        {
-            direction = Vector2.right;
-        }
-        GameObject bullet = Instantiate(RegularFire, transform.position + direction * 0.8f, Quaternion.identity);
-        bullet.GetComponent<Bullet_Movement>().SetDirection(direction);
+        Tdirection = (target.transform.position - transform.position).normalized * 0.8f;
+        //rb.velocity = new Vector2(Tdirection.x, Tdirection.y);
+
+        GameObject bullet = Instantiate(RegularFire, transform.position + Tdirection * 0.8f, Quaternion.identity);
+        bullet.GetComponent<Bullet_Movement>().SetDirection(Tdirection);
     }
 }

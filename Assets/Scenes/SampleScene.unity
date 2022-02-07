@@ -1142,6 +1142,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   RegularFire: {fileID: 7731773350660913256, guid: eeff73d6f4baf2c4087892870f19789e, type: 3}
   Ramon: {fileID: 547864713}
+  target: {fileID: 547864713}
 --- !u!1 &517765166
 GameObject:
   m_ObjectHideFlags: 0
@@ -1288,7 +1289,7 @@ Camera:
     width: 1
     height: 1
   near clip plane: 0.3
-  far clip plane: 1000
+  far clip plane: 100
   field of view: 60
   orthographic: 1
   orthographic size: 1
