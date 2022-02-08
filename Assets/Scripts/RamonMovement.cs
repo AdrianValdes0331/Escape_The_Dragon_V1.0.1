@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Playables;
 
 public class RamonMovement : MonoBehaviour
 {
@@ -12,8 +13,10 @@ public class RamonMovement : MonoBehaviour
     private Rigidbody2D Rigidbody2D;
     private float Horizontal;
     private float LastShoot;
+    public static float ramon_health;
     void Start()
     {
+        ramon_health = 1;
         Rigidbody2D = GetComponent<Rigidbody2D>();
         Animator = GetComponent<Animator>();
     }
@@ -42,6 +45,10 @@ public class RamonMovement : MonoBehaviour
             Shoot();
             LastShoot = Time.time;
         }
+        /*if (ramon_health <= 0)
+        {
+            Destroy(gameObject);
+        }*/
     }
 
     private void Jump()
@@ -62,6 +69,14 @@ public class RamonMovement : MonoBehaviour
         }
         GameObject bullet =  Instantiate(Bullet, transform.position + direction * 0.1f, Quaternion.identity);
         bullet.GetComponent<Bullet_Movement>().SetDirection(direction);
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.tag == "Enemy_Bullet")
+        {
+            ramon_health -= 0.1f;
+        }
     }
 
     private void FixedUpdate()

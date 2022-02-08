@@ -7,6 +7,9 @@ TagManager:
   - GameManager
   - player
   - GunSword
+  - LV1_Dragon
+  - Enemy_Bullet
+  - Gunsword_Bullet
   layers:
   - Default
   - TransparentFX

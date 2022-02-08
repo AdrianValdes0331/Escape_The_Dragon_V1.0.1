@@ -13,10 +13,10 @@ GameObject:
   - component: {fileID: 7780896264408279852}
   - component: {fileID: 3105372924134833211}
   - component: {fileID: 5266426713377437307}
-  - component: {fileID: -1439642599788167425}
+  - component: {fileID: 7053418186326383043}
   m_Layer: 0
   m_Name: explosion_smoke_15
-  m_TagString: Untagged
+  m_TagString: Enemy_Bullet
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -133,7 +133,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 1
+  m_Mass: 20
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 0
@@ -142,7 +142,7 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
---- !u!114 &-1439642599788167425
+--- !u!114 &7053418186326383043
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 9141944124901892667}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a615d44558f13e4d89f1634459a25fe, type: 3}
+  m_Script: {fileID: 11500000, guid: 1134ac45ec5e3314e9237ae0ee167bb3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 6

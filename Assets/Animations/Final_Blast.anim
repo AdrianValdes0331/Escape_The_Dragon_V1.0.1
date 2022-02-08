@@ -75,7 +75,7 @@ AnimationClip:
   - time: 0.25
     functionName: DestroyBullet
     data: 
-    objectReferenceParameter: {fileID: 11500000, guid: 8a615d44558f13e4d89f1634459a25fe, type: 3}
+    objectReferenceParameter: {fileID: 11500000, guid: 1134ac45ec5e3314e9237ae0ee167bb3, type: 3}
     floatParameter: 0
     intParameter: 0
     messageOptions: 0
