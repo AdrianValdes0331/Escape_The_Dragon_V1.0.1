@@ -15,6 +15,6 @@ public class HealthBar : MonoBehaviour
     void Update()
     {
         localScale.x = RamonMovement.ramon_health;
-        transform.localScale = localScale;
+        transform.localScale = localScale;   
     }
 }

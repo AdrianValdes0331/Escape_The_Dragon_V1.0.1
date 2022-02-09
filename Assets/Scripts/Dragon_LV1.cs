@@ -8,12 +8,15 @@ public class Dragon_LV1 : MonoBehaviour
     public GameObject Ramon;
     private float LastShoot;
     public GameObject target;
+    public GameObject FirePoint;
     public static float Dragon_Health;
+    private Animator Animator;
     Vector3 Tdirection;
 
     void Start()
     {
-        Dragon_Health = 10;
+        Dragon_Health = 4;
+        Animator = GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -21,15 +24,25 @@ public class Dragon_LV1 : MonoBehaviour
     {
         float distance = Mathf.Abs(Ramon.transform.position.x - transform.position.x);
         //Vector3 direction = Ramon.transform.position;
+        if (distance < 3.0f)
+        {
+            Animator.SetBool("attack", true);
+        }
+        else if (distance > 3.0f)
+        {
+            Animator.SetBool("attack", false);
+        }
+
         if (distance < 3.0f && Time.time > LastShoot + 0.25f)
         {
+            //Animator.SetBool("attack", true);
             Shoot();
             LastShoot = Time.time;
         }
         if (Dragon_Health <= 0)
         {
             Destroy(gameObject);
-        }
+        }    
     }
 
     private void Shoot()
@@ -37,7 +50,7 @@ public class Dragon_LV1 : MonoBehaviour
         Tdirection = (target.transform.position - transform.position).normalized * 0.8f;
         //rb.velocity = new Vector2(Tdirection.x, Tdirection.y);
         //GameObject bullet = Instantiate(RegularFire, transform.position + (transform.up * 0.2f) + (transform.right*-0.5f) + Tdirection, Quaternion.identity);
-        GameObject bullet = Instantiate(RegularFire, transform.position + Tdirection * 0.5f, Quaternion.identity);
+        GameObject bullet = Instantiate(RegularFire, FirePoint.transform.position + Tdirection * 0.5f, Quaternion.identity);
         bullet.GetComponent<Bullet_Movement_Villian>().SetDirection(Tdirection);
     }
 

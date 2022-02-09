@@ -28,11 +28,11 @@ public class RamonMovement : MonoBehaviour
 
         if (Horizontal < 0.0f)
         {
-            transform.localScale = new Vector3(-259.5f, 259.5f, 259.5f);
+            transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
         }
         else if (Horizontal > 0.0f)
         {
-            transform.localScale = new Vector3(259.5f, 259.5f, 259.5f);
+            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
         }
         Animator.SetBool("running", Horizontal != 0.0f);
         if (Input.GetKeyDown(KeyCode.Space))
@@ -59,7 +59,7 @@ public class RamonMovement : MonoBehaviour
     private void Shoot()
     {
         Vector3 direction;
-        if (transform.localScale.x == 259.5f)
+        if (transform.localScale.x == 1.0f)
         {
             direction = Vector2.right;
         }

@@ -20,7 +20,7 @@ public class Cutscene_Manager : MonoBehaviour
         {
             Obligatory_Death.Play();
             Debug.Log("hello");
-            //Destroy(ramon, 2.99f); fix destroy
+            //Destroy(ramon, 2.99f); //fix destroy
         }
     }
 }
