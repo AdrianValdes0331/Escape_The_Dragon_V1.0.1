@@ -10,6 +10,7 @@ TagManager:
   - LV1_Dragon
   - Enemy_Bullet
   - Gunsword_Bullet
+  - LV1_Obstacle
   layers:
   - Default
   - TransparentFX
