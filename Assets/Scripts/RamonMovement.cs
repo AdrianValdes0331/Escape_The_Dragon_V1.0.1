@@ -73,7 +73,15 @@ public class RamonMovement : MonoBehaviour
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Enemy_Bullet")
+        if (collision.gameObject.tag == "Enemy_Bullet" || collision.gameObject.tag == "LV2_Punches")
+        {
+            ramon_health -= 0.1f;
+        }
+    }
+
+    private void OnTriggerEnter2D(Collider2D trig)
+    {
+        if(trig.gameObject.tag == "Acid_Drops")
         {
             ramon_health -= 0.1f;
         }

@@ -39,10 +39,10 @@ public class LV2_Boss : MonoBehaviour
             Shoot2();
             LastShoot = Time.time;
         }
-        if (LV2_Boss_Health <= 0)
+        /*if (LV2_Boss_Health <= 0)
         {
-            Destroy(gameObject);
-        }
+            //Destroy(gameObject);
+        }*/
     }
 
     private void Shoot()
