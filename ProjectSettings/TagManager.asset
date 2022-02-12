@@ -12,6 +12,8 @@ TagManager:
   - Gunsword_Bullet
   - LV1_Obstacle
   - LV2_Boss
+  - LV2_Punches
+  - Acid_Drops
   layers:
   - Default
   - TransparentFX

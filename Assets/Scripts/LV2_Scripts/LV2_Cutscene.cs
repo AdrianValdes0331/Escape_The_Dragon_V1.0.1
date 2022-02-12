@@ -23,10 +23,4 @@ public class LV2_Cutscene : MonoBehaviour
             LV2_Victory_PT2.Play();
         }
     }
-
-    void DestroyLV2Boss() 
-    {
-        Destroy(LV2_Boss_Char);
-    }
-
 }

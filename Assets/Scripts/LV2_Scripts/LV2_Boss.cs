@@ -4,8 +4,11 @@ using UnityEngine;
 
 public class LV2_Boss : MonoBehaviour
 {
+    int cont = 0;
     public GameObject Acid_spit;
     public GameObject Acid_spit_2;
+    public GameObject Exit_Bridge;
+    public GameObject Barrier;
     private float LastShoot;
     public GameObject target;
     public GameObject FirePoint_1;
@@ -39,10 +42,15 @@ public class LV2_Boss : MonoBehaviour
             Shoot2();
             LastShoot = Time.time;
         }
-        /*if (LV2_Boss_Health <= 0)
+        if (LV2_Boss_Health <= 0)
         {
-            //Destroy(gameObject);
-        }*/
+            if (cont < 1)
+            {
+                Instantiate(Exit_Bridge);
+                cont++;
+            }
+            Destroy(Barrier);
+        }
     }
 
     private void Shoot()

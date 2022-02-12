@@ -1,0 +1,3300 @@
+fileFormatVersion: 2
+guid: cac5ecd6666270a458b324bc715eb21a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4850602106172472715
+    second: background_2_cave_Purple_0
+  - first:
+      213: 2874838074853128704
+    second: background_2_cave_Purple_1
+  - first:
+      213: -5104722889675600006
+    second: background_2_cave_Purple_2
+  - first:
+      213: -3333078099635351765
+    second: background_2_cave_Purple_3
+  - first:
+      213: -7025466065470812599
+    second: background_2_cave_Purple_4
+  - first:
+      213: 5787719011051025288
+    second: background_2_cave_Purple_5
+  - first:
+      213: 1884458522013095932
+    second: background_2_cave_Purple_6
+  - first:
+      213: 7201044614291120231
+    second: background_2_cave_Purple_7
+  - first:
+      213: -3385721292537238290
+    second: background_2_cave_Purple_8
+  - first:
+      213: 5312647541838867746
+    second: background_2_cave_Purple_9
+  - first:
+      213: -8916926716093219095
+    second: background_2_cave_Purple_10
+  - first:
+      213: -6212731098337312627
+    second: background_2_cave_Purple_11
+  - first:
+      213: -5593716146665629235
+    second: background_2_cave_Purple_12
+  - first:
+      213: -8803360368729453675
+    second: background_2_cave_Purple_13
+  - first:
+      213: -591874908560138079
+    second: background_2_cave_Purple_14
+  - first:
+      213: 5899088914515202692
+    second: background_2_cave_Purple_15
+  - first:
+      213: 5228295881636486931
+    second: background_2_cave_Purple_16
+  - first:
+      213: 4721830099076049191
+    second: background_2_cave_Purple_17
+  - first:
+      213: -4033562649753671026
+    second: background_2_cave_Purple_18
+  - first:
+      213: -4851318921240007448
+    second: background_2_cave_Purple_19
+  - first:
+      213: -8581768238986710795
+    second: background_2_cave_Purple_20
+  - first:
+      213: 623025986679314764
+    second: background_2_cave_Purple_21
+  - first:
+      213: -2098485038542991612
+    second: background_2_cave_Purple_22
+  - first:
+      213: 7540412999679302891
+    second: background_2_cave_Purple_23
+  - first:
+      213: 386773358837685101
+    second: background_2_cave_Purple_24
+  - first:
+      213: -3719031495965382237
+    second: background_2_cave_Purple_25
+  - first:
+      213: 1721537404102332625
+    second: background_2_cave_Purple_26
+  - first:
+      213: -7980064055670250256
+    second: background_2_cave_Purple_27
+  - first:
+      213: -4870224436531201735
+    second: background_2_cave_Purple_28
+  - first:
+      213: 289455428914192611
+    second: background_2_cave_Purple_29
+  - first:
+      213: 3157503276964536858
+    second: background_2_cave_Purple_30
+  - first:
+      213: 657546632514718938
+    second: background_2_cave_Purple_31
+  - first:
+      213: -5397062032037165276
+    second: background_2_cave_Purple_32
+  - first:
+      213: -505412924121375445
+    second: background_2_cave_Purple_33
+  - first:
+      213: 5671494974424230627
+    second: background_2_cave_Purple_34
+  - first:
+      213: 7300143466796133019
+    second: background_2_cave_Purple_35
+  - first:
+      213: 654370179443513218
+    second: background_2_cave_Purple_36
+  - first:
+      213: -2693463414576242647
+    second: background_2_cave_Purple_37
+  - first:
+      213: -4218823550647947239
+    second: background_2_cave_Purple_38
+  - first:
+      213: -9114234643614152595
+    second: background_2_cave_Purple_39
+  - first:
+      213: -5064256118001750627
+    second: background_2_cave_Purple_40
+  - first:
+      213: 4383727089187700868
+    second: background_2_cave_Purple_41
+  - first:
+      213: 5675235334129691168
+    second: background_2_cave_Purple_42
+  - first:
+      213: -6152060516065576175
+    second: background_2_cave_Purple_43
+  - first:
+      213: 2693370301015518440
+    second: background_2_cave_Purple_44
+  - first:
+      213: 3252200225340730453
+    second: background_2_cave_Purple_45
+  - first:
+      213: -688379790461759194
+    second: background_2_cave_Purple_46
+  - first:
+      213: -8353600978064856236
+    second: background_2_cave_Purple_47
+  - first:
+      213: -2603532002843229763
+    second: background_2_cave_Purple_48
+  - first:
+      213: 5640342545695388762
+    second: background_2_cave_Purple_49
+  - first:
+      213: 5332948589234929510
+    second: background_2_cave_Purple_50
+  - first:
+      213: 5971303103167093191
+    second: background_2_cave_Purple_51
+  - first:
+      213: 1438157879814694385
+    second: background_2_cave_Purple_52
+  - first:
+      213: -3709517327180027205
+    second: background_2_cave_Purple_53
+  - first:
+      213: 4230670480058705951
+    second: background_2_cave_Purple_54
+  - first:
+      213: 3146240541318581595
+    second: background_2_cave_Purple_55
+  - first:
+      213: -7768313263764923000
+    second: background_2_cave_Purple_56
+  - first:
+      213: 7631862756470955142
+    second: background_2_cave_Purple_57
+  - first:
+      213: 5456881984010631139
+    second: background_2_cave_Purple_58
+  - first:
+      213: -433277660789944187
+    second: background_2_cave_Purple_59
+  - first:
+      213: 5468550838192055487
+    second: background_2_cave_Purple_60
+  - first:
+      213: -7965520464022539678
+    second: background_2_cave_Purple_61
+  - first:
+      213: 7699331118460116303
+    second: background_2_cave_Purple_62
+  - first:
+      213: -7232717547289184461
+    second: background_2_cave_Purple_63
+  - first:
+      213: -6968600488709874047
+    second: background_2_cave_Purple_64
+  - first:
+      213: -6664833984638759708
+    second: background_2_cave_Purple_65
+  - first:
+      213: -5310991952569041368
+    second: background_2_cave_Purple_66
+  - first:
+      213: -5684253162041008121
+    second: background_2_cave_Purple_67
+  - first:
+      213: 2962240422541407886
+    second: background_2_cave_Purple_68
+  - first:
+      213: 1176922826758864615
+    second: background_2_cave_Purple_69
+  - first:
+      213: 9206206886207240784
+    second: background_2_cave_Purple_70
+  - first:
+      213: 9191716299051122322
+    second: background_2_cave_Purple_71
+  - first:
+      213: 6893269439391396198
+    second: background_2_cave_Purple_72
+  - first:
+      213: 1738672931675158804
+    second: background_2_cave_Purple_73
+  - first:
+      213: 6950950306466780189
+    second: background_2_cave_Purple_74
+  - first:
+      213: -4548980470822523059
+    second: background_2_cave_Purple_75
+  - first:
+      213: 1704419984557246344
+    second: background_2_cave_Purple_76
+  - first:
+      213: 4902376560339285208
+    second: background_2_cave_Purple_77
+  - first:
+      213: 6249049338043179520
+    second: background_2_cave_Purple_78
+  - first:
+      213: -9107053931904703821
+    second: background_2_cave_Purple_79
+  - first:
+      213: 1305397892545528834
+    second: background_2_cave_Purple_80
+  - first:
+      213: 8759491908280870389
+    second: background_2_cave_Purple_81
+  - first:
+      213: 4346548909342356956
+    second: background_2_cave_Purple_82
+  - first:
+      213: -8106019222678157744
+    second: background_2_cave_Purple_83
+  - first:
+      213: -1160966060320451961
+    second: background_2_cave_Purple_84
+  - first:
+      213: 7537842882421164873
+    second: background_2_cave_Purple_85
+  - first:
+      213: -8779184247529655492
+    second: background_2_cave_Purple_86
+  - first:
+      213: 7407320682983935545
+    second: background_2_cave_Purple_87
+  - first:
+      213: -8097884477318237329
+    second: background_2_cave_Purple_88
+  - first:
+      213: 4936740481112815765
+    second: background_2_cave_Purple_89
+  - first:
+      213: -1023799983179103391
+    second: background_2_cave_Purple_90
+  - first:
+      213: 7763355640918320699
+    second: background_2_cave_Purple_91
+  - first:
+      213: 3943168949986746708
+    second: background_2_cave_Purple_92
+  - first:
+      213: 1755036717080077295
+    second: background_2_cave_Purple_93
+  - first:
+      213: -2742513057022495623
+    second: background_2_cave_Purple_94
+  - first:
+      213: -3297959707499080205
+    second: background_2_cave_Purple_95
+  - first:
+      213: -2367900711420134825
+    second: background_2_cave_Purple_96
+  - first:
+      213: 7623128366922015622
+    second: background_2_cave_Purple_97
+  - first:
+      213: -2446130538596479462
+    second: background_2_cave_Purple_98
+  - first:
+      213: -7987758759704167834
+    second: background_2_cave_Purple_99
+  - first:
+      213: 4881206096251809050
+    second: background_2_cave_Purple_100
+  - first:
+      213: -8688152206372142835
+    second: background_2_cave_Purple_101
+  - first:
+      213: -6114807357767213148
+    second: background_2_cave_Purple_102
+  - first:
+      213: -3569333668890943282
+    second: background_2_cave_Purple_103
+  - first:
+      213: 3984391722429694401
+    second: background_2_cave_Purple_104
+  - first:
+      213: 1083988408825160231
+    second: background_2_cave_Purple_105
+  - first:
+      213: -5805353906251323262
+    second: background_2_cave_Purple_106
+  - first:
+      213: 1268419278066799105
+    second: background_2_cave_Purple_107
+  - first:
+      213: 4303118842429033482
+    second: background_2_cave_Purple_108
+  - first:
+      213: -3919825882391117121
+    second: background_2_cave_Purple_109
+  - first:
+      213: 3420562423919052704
+    second: background_2_cave_Purple_110
+  - first:
+      213: 5916863258009329605
+    second: background_2_cave_Purple_111
+  - first:
+      213: -3948340976677442806
+    second: background_2_cave_Purple_112
+  - first:
+      213: 7351624940954495449
+    second: background_2_cave_Purple_113
+  - first:
+      213: -9041119319183173767
+    second: background_2_cave_Purple_114
+  - first:
+      213: -8061741411614545390
+    second: background_2_cave_Purple_115
+  - first:
+      213: -5418845020388920770
+    second: background_2_cave_Purple_116
+  - first:
+      213: 1078574717515146630
+    second: background_2_cave_Purple_117
+  - first:
+      213: -1098509144911815916
+    second: background_2_cave_Purple_118
+  - first:
+      213: -7017108994347349202
+    second: background_2_cave_Purple_119
+  - first:
+      213: 4109792858822581113
+    second: background_2_cave_Purple_120
+  - first:
+      213: 6420394265769142421
+    second: background_2_cave_Purple_121
+  - first:
+      213: 8734083574473227186
+    second: background_2_cave_Purple_122
+  - first:
+      213: -4650039170730870548
+    second: background_2_cave_Purple_123
+  - first:
+      213: 1809315295770920606
+    second: background_2_cave_Purple_124
+  - first:
+      213: -3517221808906851852
+    second: background_2_cave_Purple_125
+  - first:
+      213: 2759466847236300153
+    second: background_2_cave_Purple_126
+  - first:
+      213: -2440662835919460317
+    second: background_2_cave_Purple_127
+  - first:
+      213: -4425764772487773777
+    second: background_2_cave_Purple_128
+  - first:
+      213: -82631777091674123
+    second: background_2_cave_Purple_129
+  - first:
+      213: -755157517311593166
+    second: background_2_cave_Purple_130
+  - first:
+      213: 8919272393499906058
+    second: background_2_cave_Purple_131
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: background_2_cave_Purple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8dfb2d7aecc05340800000000000000
+      internalID: 4850602106172472715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_1
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a736e5ff975e720800000000000000
+      internalID: 2874838074853128704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_2
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f841ce3916829b0800000000000000
+      internalID: -5104722889675600006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fc996b0278eb1d0800000000000000
+      internalID: -3333078099635351765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e0d0206d7808e90800000000000000
+      internalID: -7025466065470812599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_5
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883b871a6cb125050800000000000000
+      internalID: 5787719011051025288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf75c8e9a01f62a10800000000000000
+      internalID: 1884458522013095932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760ef868cef3fe360800000000000000
+      internalID: 7201044614291120231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec67d93c608301d0800000000000000
+      internalID: -3385721292537238290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_9
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d682caac05ab940800000000000000
+      internalID: 5312647541838867746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eeb2174566b04480800000000000000
+      internalID: -8916926716093219095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_11
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 86
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8005968bf1f7c9a0800000000000000
+      internalID: -6212731098337312627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9d0a72dc02f52b0800000000000000
+      internalID: -5593716146665629235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b0128036e24d580800000000000000
+      internalID: -8803360368729453675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a06ec318ec39c7f0800000000000000
+      internalID: -591874908560138079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_15
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4829f10fc16cdd150800000000000000
+      internalID: 5899088914515202692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f94955763ae8840800000000000000
+      internalID: 5228295881636486931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_17
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729ec21357f478140800000000000000
+      internalID: 4721830099076049191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a262a0428e508c0800000000000000
+      internalID: -4033562649753671026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecab5ff427acacb0800000000000000
+      internalID: -4851318921240007448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0b77a314f67e880800000000000000
+      internalID: -8581768238986710795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_21
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c499bdd75de65a800800000000000000
+      internalID: 623025986679314764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_22
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f4c27c9fea0e2e0800000000000000
+      internalID: -2098485038542991612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_23
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 78
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bec5f912cade4a860800000000000000
+      internalID: 7540412999679302891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bda1612581e5500800000000000000
+      internalID: 386773358837685101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_25
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a96e760f88536cc0800000000000000
+      internalID: -3719031495965382237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_26
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0511fd52124e710800000000000000
+      internalID: 1721537404102332625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_27
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f469e4850e114190800000000000000
+      internalID: -7980064055670250256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9397124bdac796cb0800000000000000
+      internalID: -4870224436531201735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e02db2dd2a540400800000000000000
+      internalID: 289455428914192611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_30
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a126a905084b1db20800000000000000
+      internalID: 3157503276964536858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_31
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc4b4ead23102900800000000000000
+      internalID: 657546632514718938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4274dad3da8c915b0800000000000000
+      internalID: -5397062032037165276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_33
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d9ad09f996cf8f0800000000000000
+      internalID: -505412924121375445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_34
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea28ff51a235be40800000000000000
+      internalID: 5671494974424230627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 70
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aa5c32ec15f4560800000000000000
+      internalID: 7300143466796133019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287d651163ac41900800000000000000
+      internalID: 654370179443513218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_37
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9202ca68b45ee9ad0800000000000000
+      internalID: -2693463414576242647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_38
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b39d355ab375c0800000000000000
+      internalID: -4218823550647947239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_39
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68c1d381ebb38180800000000000000
+      internalID: -9114234643614152595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d28ea64e528b9b0800000000000000
+      internalID: -5064256118001750627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_41
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4804a47cf8026dc30800000000000000
+      internalID: 4383727089187700868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02aab8bb77c72ce40800000000000000
+      internalID: 5675235334129691168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b743f3e8d7f9aa0800000000000000
+      internalID: -6152060516065576175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eced98c406c06520800000000000000
+      internalID: 2693370301015518440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_45
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55c21e1cfd2222d20800000000000000
+      internalID: 3252200225340730453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_46
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62118fe4a326276f0800000000000000
+      internalID: -688379790461759194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_47
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ba6137b2c021c80800000000000000
+      internalID: -8353600978064856236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db10b2100756edbd0800000000000000
+      internalID: -2603532002843229763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_49
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5432b759a5864e40800000000000000
+      internalID: 5640342545695388762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fb4ca9c70720a40800000000000000
+      internalID: 5332948589234929510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_51
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95676f8845ed250800000000000000
+      internalID: 5971303103167093191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_52
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f5a845d8fc55f310800000000000000
+      internalID: 1438157879814694385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_53
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bba274115a5258cc0800000000000000
+      internalID: -3709517327180027205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1861a5f26c56ba30800000000000000
+      internalID: 4230670480058705951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_55
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d0a335a11b9ab20800000000000000
+      internalID: 3146240541318581595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d1651be38613490800000000000000
+      internalID: -7768313263764923000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_57
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c1cfdddb2d9e960800000000000000
+      internalID: 7631862756470955142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_58
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7be2ea04dbabb40800000000000000
+      internalID: 5456881984010631139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_59
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580d08b5340bcf9f0800000000000000
+      internalID: -433277660789944187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42a92830234eb40800000000000000
+      internalID: 5468550838192055487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_61
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262f4d25759c47190800000000000000
+      internalID: -7965520464022539678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d1de30cd489da60800000000000000
+      internalID: 7699331118460116303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337f71916b930ab90800000000000000
+      internalID: -7232717547289184461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_64
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e95d8d6ce8a4f90800000000000000
+      internalID: -6968600488709874047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_65
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ecc7a28dc0c183a0800000000000000
+      internalID: -6664833984638759708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_66
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef92e35f09b46b0800000000000000
+      internalID: -5310991952569041368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_67
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700a7279dd97d11b0800000000000000
+      internalID: -5684253162041008121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8632ec38fdfb1920800000000000000
+      internalID: 2962240422541407886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_69
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeb2094315455010800000000000000
+      internalID: 1176922826758864615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_70
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a332de26403cf70800000000000000
+      internalID: 9206206886207240784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_71
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 46
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e3c1136498f8f70800000000000000
+      internalID: 9191716299051122322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661faf37800d9af50800000000000000
+      internalID: 6893269439391396198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_73
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b519c1d1012810800000000000000
+      internalID: 1738672931675158804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14585cd97cb67060800000000000000
+      internalID: 6950950306466780189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f2f620d56ced0c0800000000000000
+      internalID: -4548980470822523059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_76
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8878c9f02f057a710800000000000000
+      internalID: 1704419984557246344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4793af18db80440800000000000000
+      internalID: 4902376560339285208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00224f9934519b650800000000000000
+      internalID: 6249049338043179520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_79
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ee7e33be3d9180800000000000000
+      internalID: -9107053931904703821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_80
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20448bb8774bd1210800000000000000
+      internalID: 1305397892545528834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f56df51b77ff8970800000000000000
+      internalID: 8759491908280870389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_82
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5763c343b025c30800000000000000
+      internalID: 4346548909342356956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_83
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 38
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056c7c9e672a18f80800000000000000
+      internalID: -8106019222678157744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782905ae48b63efe0800000000000000
+      internalID: -1160966060320451961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94b8b631a2ccb9860800000000000000
+      internalID: 7537842882421164873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_86
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c333a44e0721a2680800000000000000
+      internalID: -8779184247529655492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_87
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e49ae5ae61cc660800000000000000
+      internalID: 7407320682983935545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_88
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63fb49e8f88e9f80800000000000000
+      internalID: -8097884477318237329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_89
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983505cf43d28440800000000000000
+      internalID: 4936740481112815765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_90
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1630f81f65bbac1f0800000000000000
+      internalID: -1023799983179103391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_91
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3626f9c2dafcbb60800000000000000
+      internalID: 7763355640918320699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_92
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4516f49a443f8b630800000000000000
+      internalID: 3943168949986746708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_93
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3635978942b5810800000000000000
+      internalID: 1755036717080077295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_94
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974bd44b7e2a0f9d0800000000000000
+      internalID: -2742513057022495623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_95
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 30
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f557fe8e1b4b32d0800000000000000
+      internalID: -3297959707499080205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a786049d6832fd0800000000000000
+      internalID: -2367900711420134825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_97
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68327935cdacac960800000000000000
+      internalID: 7623128366922015622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ec8bc3c399d0ed0800000000000000
+      internalID: -2446130538596479462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a7150aab7c52190800000000000000
+      internalID: -7987758759704167834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_100
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d6f8235178db340800000000000000
+      internalID: 4881206096251809050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_101
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0189a0a99b7d6780800000000000000
+      internalID: -8688152206372142835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_102
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af17521b17d32ba0800000000000000
+      internalID: -6114807357767213148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_103
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0e9e470fd277ec0800000000000000
+      internalID: -3569333668890943282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_104
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1cd6d49276b4730800000000000000
+      internalID: 3984391722429694401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_105
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7222aa0f6b91b0f00800000000000000
+      internalID: 1083988408825160231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_106
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288a67e516d3f6fa0800000000000000
+      internalID: -5805353906251323262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_107
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 22
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102dd6fec945a9110800000000000000
+      internalID: 1268419278066799105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cc54dc9cfb7bb30800000000000000
+      internalID: 4303118842429033482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_109
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb202bac02bf999c0800000000000000
+      internalID: -3919825882391117121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_110
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a78eb1d667487f20800000000000000
+      internalID: 3420562423919052704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_111
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cfd436c8cbec1250800000000000000
+      internalID: 5916863258009329605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_112
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ba5090dcca439c0800000000000000
+      internalID: -3948340976677442806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_113
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9ae77eee7360660800000000000000
+      internalID: 7351624940954495449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9775a2091ed778280800000000000000
+      internalID: -9041119319183173767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_115
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21aa8a926e0fe1090800000000000000
+      internalID: -8061741411614545390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_116
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e32f2da0a256cc4b0800000000000000
+      internalID: -5418845020388920770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_117
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6852535bdfdd7fe00800000000000000
+      internalID: 1078574717515146630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_118
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b530bb0cf41c0f0800000000000000
+      internalID: -1098509144911815916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_119
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 14
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2b4ab14c883e9e90800000000000000
+      internalID: -7017108994347349202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b9e8a94dae80930800000000000000
+      internalID: 4109792858822581113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_121
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598ef196192d91950800000000000000
+      internalID: 6420394265769142421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_122
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbfc0f5cb2b53970800000000000000
+      internalID: 8734083574473227186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_123
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83fecd20eb77fb0800000000000000
+      internalID: -4650039170730870548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_124
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e964b13ecaafb1910800000000000000
+      internalID: 1809315295770920606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_125
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9a9db5661503fc0800000000000000
+      internalID: -3517221808906851852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_126
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d9cfe2a789b4620800000000000000
+      internalID: 2759466847236300153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_127
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328e588f416012ed0800000000000000
+      internalID: -2440662835919460317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_128
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1cd6c53668492c0800000000000000
+      internalID: -4425764772487773777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_129
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff9a4726de6adef0800000000000000
+      internalID: -82631777091674123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_130
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2353d2f2d342585f0800000000000000
+      internalID: -755157517311593166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: background_2_cave_Purple_131
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 6
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00928d4cfe97cb70800000000000000
+      internalID: 8919272393499906058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
