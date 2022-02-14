@@ -105927,6 +105927,8 @@ GameObject:
   - component: {fileID: 2008030202}
   - component: {fileID: 2008030203}
   - component: {fileID: 2008030207}
+  - component: {fileID: 2008030209}
+  - component: {fileID: 2008030208}
   m_Layer: 0
   m_Name: Big_bloated
   m_TagString: LV2_Boss
@@ -106072,13 +106074,39 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe5e600c4e2ac7b448d5503322968d59, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Acid_spit: {fileID: 6069301980684710144, guid: efbb50a0c9684e546a81c48823b2e217, type: 3}
-  Acid_spit_2: {fileID: 6069301980684710144, guid: efbb50a0c9684e546a81c48823b2e217, type: 3}
   Exit_Bridge: {fileID: 4705361543437875916, guid: e25ce646cfb81af4a974dd5f533e7f77, type: 3}
   Barrier: {fileID: 1739537742}
   target: {fileID: 643355891}
+--- !u!114 &2008030208
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2008030201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c958391069b3c4aad458b3c5cafb4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 6069301980684710144, guid: efbb50a0c9684e546a81c48823b2e217, type: 3}
+  FirePoint_1: {fileID: 984035828}
+  target: {fileID: 643355891}
+--- !u!114 &2008030209
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2008030201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57c958391069b3c4aad458b3c5cafb4d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bullet: {fileID: 6069301980684710144, guid: efbb50a0c9684e546a81c48823b2e217, type: 3}
   FirePoint_1: {fileID: 1612805305}
-  FirePoint_2: {fileID: 984035828}
+  target: {fileID: 643355891}
 --- !u!1 &2009290207
 GameObject:
   m_ObjectHideFlags: 0

@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 420521508523106014}
   - component: {fileID: 3980712033807463110}
   - component: {fileID: 2465721359417586356}
-  - component: {fileID: 2227424374541723923}
+  - component: {fileID: 5493251794994007938}
   m_Layer: 0
   m_Name: Acid_Spit
   m_TagString: Enemy_Bullet
@@ -122,7 +122,7 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.032187387
---- !u!114 &2227424374541723923
+--- !u!114 &5493251794994007938
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -131,7 +131,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 6069301980684710144}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1134ac45ec5e3314e9237ae0ee167bb3, type: 3}
+  m_Script: {fileID: 11500000, guid: 25df6263a971c274e9326f7dbba3898c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Speed: 3
