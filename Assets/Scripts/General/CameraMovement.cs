@@ -10,7 +10,7 @@ public class CameraMovement : MonoBehaviour
     {
         Vector3 position = transform.position;
         position.x = Ramon.transform.position.x;
-        position.y = Ramon.transform.position.y;
+        position.y = Ramon.transform.position.y + 0.5f;
         transform.position = position;
     }
 
