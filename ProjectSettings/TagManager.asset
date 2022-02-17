@@ -14,6 +14,8 @@ TagManager:
   - LV2_Boss
   - LV2_Punches
   - Acid_Drops
+  - base
+  - invwall
   layers:
   - Default
   - TransparentFX
