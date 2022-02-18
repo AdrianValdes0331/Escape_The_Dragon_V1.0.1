@@ -32,7 +32,9 @@ public class Centepide_Script : MonoBehaviour
         }
         if (Centipede_Health <= 0)
         {
-            Destroy(gameObject);
+            Animator.SetTrigger("death");
+            Destroy(GetComponent<BoxCollider2D>());
+            //Destroy(gameObject, 5.0f);
         }
     }
 
