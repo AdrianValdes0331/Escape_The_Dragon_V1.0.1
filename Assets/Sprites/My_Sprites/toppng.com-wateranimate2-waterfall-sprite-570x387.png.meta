@@ -1,0 +1,828 @@
+fileFormatVersion: 2
+guid: ab768f8b4e518d244bac8586d7d45fa4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3349352718837165315
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_0
+  - first:
+      213: -2957492140582526925
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_1
+  - first:
+      213: 8213452620915666009
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_2
+  - first:
+      213: -6036390371189988539
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_3
+  - first:
+      213: 2656031001497047153
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_4
+  - first:
+      213: 7363395731558918474
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_5
+  - first:
+      213: -7891896933850694686
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_6
+  - first:
+      213: 3913848181139275688
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_7
+  - first:
+      213: 5645096371236198725
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_8
+  - first:
+      213: 8047420034718855597
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_9
+  - first:
+      213: -2679129469209388291
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_10
+  - first:
+      213: -5724958208707235452
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_11
+  - first:
+      213: -862321595791258995
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_12
+  - first:
+      213: -2709280859758044720
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_13
+  - first:
+      213: -5930720331006364493
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_14
+  - first:
+      213: 6661728420096149527
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_15
+  - first:
+      213: 1481692119090830962
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_16
+  - first:
+      213: 491464880464567585
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_17
+  - first:
+      213: -8495156555072752614
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_18
+  - first:
+      213: 8844254687285984590
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_19
+  - first:
+      213: 5679530710884627624
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_20
+  - first:
+      213: -1605845967524515617
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_21
+  - first:
+      213: 5079226066346929962
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_22
+  - first:
+      213: -1464585213238625286
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_23
+  - first:
+      213: 1096005303452271065
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_24
+  - first:
+      213: -2725201336350694237
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_25
+  - first:
+      213: 1734275645792621111
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_26
+  - first:
+      213: 8584057276694139451
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_27
+  - first:
+      213: 6050357615191553018
+    second: toppng.com-wateranimate2-waterfall-sprite-570x387_28
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 320
+        width: 60
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2d836a275b481d0800000000000000
+      internalID: -3349352718837165315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 320
+        width: 115
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 330a19e4190e4f6d0800000000000000
+      internalID: -2957492140582526925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 317
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ced2954ab0cf170800000000000000
+      internalID: 8213452620915666009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_3
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 320
+        width: 117
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543e1a780fe6a3ca0800000000000000
+      internalID: -6036390371189988539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 339
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17018a4af1e1cd420800000000000000
+      internalID: 2656031001497047153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_5
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 316
+        width: 122
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a496238a769003660800000000000000
+      internalID: 7363395731558918474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_6
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 320
+        width: 125
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb5dd3d895a7290800000000000000
+      internalID: -7891896933850694686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_7
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 0
+        width: 282
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af7d9d2f28c05630800000000000000
+      internalID: 3913848181139275688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_8
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 322
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549516a9d39675e40800000000000000
+      internalID: 5645096371236198725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_9
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 319
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da177cf62ed2eaf60800000000000000
+      internalID: 8047420034718855597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_10
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 317
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfa5e7041f1d1dad0800000000000000
+      internalID: -2679129469209388291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 313
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4817c0067dcdc80b0800000000000000
+      internalID: -5724958208707235452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_12
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 313
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8ac6b0d31b6804f0800000000000000
+      internalID: -862321595791258995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_13
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 313
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95b559963b66ad0800000000000000
+      internalID: -2709280859758044720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_14
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 312
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b4bd200849d1bda0800000000000000
+      internalID: -5930720331006364493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 39
+        width: 124
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71884f5e3b6337c50800000000000000
+      internalID: 6661728420096149527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_16
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 36
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e97e8c127009410800000000000000
+      internalID: 1481692119090830962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_17
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 41
+        width: 117
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12d9ba374b802d600800000000000000
+      internalID: 491464880464567585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_18
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 58
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a14be875f142b1a80800000000000000
+      internalID: -8495156555072752614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 38
+        width: 122
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db3ca77ca1dba70800000000000000
+      internalID: 8844254687285984590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_20
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 39
+        width: 125
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a43331171fb1de40800000000000000
+      internalID: 5679530710884627624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_21
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 39
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd035b5c993e6b9e0800000000000000
+      internalID: -1605845967524515617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_22
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 38
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f638a42390d7640800000000000000
+      internalID: 5079226066346929962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 36
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb3f9d128fbcabe0800000000000000
+      internalID: -1464585213238625286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_24
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 35
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18730440bc53f00800000000000000
+      internalID: 1096005303452271065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_25
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 33
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4a565c2d32e2ad0800000000000000
+      internalID: -2725201336350694237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 32
+        width: 20
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7329412e282611810800000000000000
+      internalID: 1734275645792621111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_27
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 32
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3216f4ec92b02770800000000000000
+      internalID: 8584057276694139451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: toppng.com-wateranimate2-waterfall-sprite-570x387_28
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 30
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af37291e13037f350800000000000000
+      internalID: 6050357615191553018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
