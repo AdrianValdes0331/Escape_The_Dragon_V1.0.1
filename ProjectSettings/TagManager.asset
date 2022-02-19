@@ -16,6 +16,8 @@ TagManager:
   - Acid_Drops
   - base
   - invwall
+  - LV3_Centipede
+  - bloodlimit
   layers:
   - Default
   - TransparentFX
