@@ -18,6 +18,7 @@ TagManager:
   - invwall
   - LV3_Centipede
   - bloodlimit
+  - scapePlatform
   layers:
   - Default
   - TransparentFX
