@@ -19,6 +19,7 @@ TagManager:
   - LV3_Centipede
   - bloodlimit
   - scapePlatform
+  - LV3_Indicators
   layers:
   - Default
   - TransparentFX
