@@ -22,7 +22,7 @@ public class Blood_Rise : MonoBehaviour
         if (Centepide_Script.Centipede_Health <= 0)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-            Instantiate(indicator, indicator.transform.position, Quaternion.identity);
+            //Instantiate(indicator, indicator.transform.position, Quaternion.identity);
         }
     }
 }
