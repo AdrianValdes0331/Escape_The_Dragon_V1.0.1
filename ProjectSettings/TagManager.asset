@@ -20,6 +20,8 @@ TagManager:
   - bloodlimit
   - scapePlatform
   - LV3_Indicators
+  - scapeSpawner
+  - Tester
   layers:
   - Default
   - TransparentFX
