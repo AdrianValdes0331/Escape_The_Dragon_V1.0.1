@@ -24,11 +24,11 @@ public class skeleton_script : MonoBehaviour
         Vector3 direction = Ramon.transform.position - transform.position;
         if (direction.x >= 0.0f)
         {
-            transform.localScale = new Vector3(1.5f, 1.5f, 1.0f);
+            transform.localScale = new Vector3(1.0f, 1.0f, 1.0f);
         }
         else
         {
-            transform.localScale = new Vector3(-1.5f, 1.5f, 1.0f);
+            transform.localScale = new Vector3(-1.0f, 1.0f, 1.0f);
         }
         if (distance < 3.0f)
         {
