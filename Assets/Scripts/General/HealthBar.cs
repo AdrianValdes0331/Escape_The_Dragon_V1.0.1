@@ -15,6 +15,7 @@ public class HealthBar : MonoBehaviour
     void Update()
     {
         localScale.x = RamonMovement.ramon_health;
+        //localScale.x = TarodevController.PlayerController.ramon_health;
         transform.localScale = localScale;   
     }
 }

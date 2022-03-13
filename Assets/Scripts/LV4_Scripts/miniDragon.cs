@@ -24,11 +24,11 @@ public class miniDragon : MonoBehaviour
         Vector3 direction = Ramon.transform.position - transform.position;
         if (direction.x >= 0.0f)
         {
-            transform.localScale = new Vector3(0.5f, 0.5f, 1.0f);
+            transform.localScale = new Vector3(-2.5f, 2.5f, 1.0f);
         }
         else
         {
-            transform.localScale = new Vector3(-0.5f, 0.5f, 1.0f);
+            transform.localScale = new Vector3(2.5f, 2.5f, 1.0f);
         }
         if (distance < 3.0f)
         {

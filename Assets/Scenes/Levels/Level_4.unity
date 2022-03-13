@@ -1375,6 +1375,7 @@ GameObject:
   - component: {fileID: 371279550}
   - component: {fileID: 371279545}
   - component: {fileID: 371279549}
+  - component: {fileID: 371279551}
   m_Layer: 0
   m_Name: LV4_Pre-Boss
   m_TagString: Untagged
@@ -1492,7 +1493,7 @@ Transform:
   m_LocalScale: {x: 2.5, y: 2.5, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -10.951}
 --- !u!95 &371279549
 Animator:
@@ -1539,6 +1540,20 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.44461554, y: 0.19162878}
   m_EdgeRadius: 0
+--- !u!114 &371279551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 371279544}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53d85003dfe912a4597b12e9d18a24c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Ramon: {fileID: 769765293}
+  speed: 0.2
 --- !u!1 &388598387
 GameObject:
   m_ObjectHideFlags: 0
@@ -3092,9 +3107,9 @@ GameObject:
   - component: {fileID: 769765299}
   - component: {fileID: 769765298}
   - component: {fileID: 769765297}
+  - component: {fileID: 769765294}
   - component: {fileID: 769765296}
   - component: {fileID: 769765295}
-  - component: {fileID: 769765294}
   m_Layer: 0
   m_Name: Ramon
   m_TagString: Player
@@ -3237,7 +3252,7 @@ Transform:
   m_Children:
   - {fileID: 464714120}
   m_Father: {fileID: 0}
-  m_RootOrder: 6
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &773345753
 GameObject:
