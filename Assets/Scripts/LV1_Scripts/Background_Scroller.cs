@@ -4,18 +4,18 @@ using UnityEngine;
 
 public class Background_Scroller : MonoBehaviour
 {
-    public BoxCollider2D collider;
-    public Rigidbody2D rb;
+    private BoxCollider2D colider;
+    private Rigidbody2D rb;
     private float width;
     private float scrollSpeed = -2f;
 
     // Start is called before the first frame update
     void Start()
     {
-        collider = GetComponent<BoxCollider2D>();
+        colider = GetComponent<BoxCollider2D>();
         rb = GetComponent<Rigidbody2D>();
-        width = collider.size.x;
-        collider.enabled = false;
+        width = colider.size.x;
+        colider.enabled = false;
         rb.velocity = new Vector2(scrollSpeed, 0);
         ResetObstacle();
     }
